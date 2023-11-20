@@ -1,1 +1,4 @@
-READ ME
+This folder contains all the earthquake vertical deformation files that are used in this analysis.
+These files are used to compare earthquake ruptures and to initialise the tsunami simulations.
+
+In each of the folders the earthquake deformation files are in .grd format and in New Zealand Transverse Mercator.
