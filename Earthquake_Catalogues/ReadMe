@@ -2,3 +2,6 @@ This folder contains a set of csv files that provide details for all the earthqu
 
 Each csv file contains the event id (column one), the nucleation time (t0), the seismic moment (m0), the moment magnitude (mw), 
 the nucleation location in New Zealand Transverse Mercator (x,y,z) the area of rupture (area), the rupture time (dt) and the tsunami potential energy (te).
+
+
+plate70_reduced.csv only contains the event id's as the other information can be found in the plate70_gt8_catalogue.csv
