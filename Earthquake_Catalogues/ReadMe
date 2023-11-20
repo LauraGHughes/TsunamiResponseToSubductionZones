@@ -1,0 +1,4 @@
+This folder contains a set of csv files that provide details for all the earthquakes analysed in the three datasets Trench_Creep, Trench_Lock and Plate_70.
+
+Each csv file contains the event id (column one), the nucleation time (t0), the seismic moment (m0), the moment magnitude (mw), 
+the nucleation location in New Zealand Transverse Mercator (x,y,z) the area of rupture (area), the rupture time (dt) and the tsunami potential energy (te).
