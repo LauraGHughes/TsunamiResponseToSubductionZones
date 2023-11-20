@@ -10,6 +10,6 @@ Earthquake_Deformation - this contains all the earthquake deformation models tha
 
 Tsunami_at_the_coast - this contains that wave heights at the coast for all the modelled events. 
 
-Tsuanmi_full_wave_field - this contains the entire tsunami wave field for a selection of events.
+Tsunami_full_wave_field - this contains the entire tsunami wave field for a selection of events.
 
 Figures - this contains the script used to generate all the figures in the paper.
